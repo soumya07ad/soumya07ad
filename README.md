@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/soumyadip-dasadhikari-117b10228/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://soumya07ad.github.io/Portfolio_Front-end/" target="_blank">
+    <a href="https://soumya07ad.github.io/PORTFOLIO/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://x.com/adhikari_s16171" target="_blank">
